@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("AZS program")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("AZS_program")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("AZS program")]
-[assembly: System.Reflection.AssemblyTitleAttribute("AZS program")]
+[assembly: System.Reflection.AssemblyProductAttribute("AZS_program")]
+[assembly: System.Reflection.AssemblyTitleAttribute("AZS_program")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
